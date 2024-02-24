@@ -1,3 +1,6 @@
+`Статус проекта: завершен`   
+`Project status: completed`
+
 # Exploratory_data_analysis
 Исследование объявлений о продаже квартир
 
